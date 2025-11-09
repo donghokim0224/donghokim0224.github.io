@@ -37,9 +37,25 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% assign month = post.date | date: "%-m" %}
+          {% if month == '1' or month == '2' %}
+            {% assign semester = 'Spring' %}
+          {% elsif month == '8' or month == '9' %}
+            {% assign semester = 'Fall' %}
+          {% else %}
+            {% assign semester = '' %}
+          {% endif %}
+          <p>
+            {% if semester != '' %}
+              {{ semester }} {{ year }},
+            {% else %}
+              {{ year }},
+            {% endif %}
+          <i>{{ post.venue }}</i>, {{ post.type }}
+          </p>
+          <!-- <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.type }} </p>   -->
+        <!-- <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
