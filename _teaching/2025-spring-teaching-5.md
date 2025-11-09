@@ -1,5 +1,5 @@
 ---
-title: "Math 113, Introduction to Abstract Algebra"
+title: "Math 113: Introduction to Abstract Algebra"
 collection: teaching
 type: "Reader"
 permalink: /teaching/2025-spring-teaching-5

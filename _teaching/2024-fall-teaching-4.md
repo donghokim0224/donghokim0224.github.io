@@ -1,5 +1,5 @@
 ---
-title: "Math 128A, Numerical Analysis"
+title: "Math 128A: Numerical Analysis"
 collection: teaching
 type: "Reader"
 permalink: /teaching/2024-fall-teaching-4

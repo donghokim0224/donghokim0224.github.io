@@ -1,5 +1,5 @@
 ---
-title: "Math 185, Introduction to Complex Analysis"
+title: "Math 185: Introduction to Complex Analysis"
 collection: teaching
 type: "Reader"
 permalink: /teaching/2025-fall-teaching-6

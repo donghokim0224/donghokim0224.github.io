@@ -1,5 +1,5 @@
 ---
-title: "Data 8, Foundations of Data Science"
+title: "Data 8: Foundations of Data Science"
 collection: teaching
 type: "Academic Intern"
 permalink: /teaching/2022-spring-teaching-1
