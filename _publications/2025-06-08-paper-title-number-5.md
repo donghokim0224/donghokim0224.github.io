@@ -3,7 +3,7 @@ title: "A Pair of Diophantine Equations Involving the Fibonacci Numbers"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper studies the prooperties of a pair of diophantine equations after fixing its coefficients with values belonging to the Fibonacci sequence.'
+excerpt: 'This paper studies the prooperties of a pair of Diophantine equations when fixing its coefficients with Fibonacci numbers and their variants.'
 date: 2025-07-21
 venue: 'Fibonacci Quarterly'
 paperurl: 'https://donghokim0224.github.io/files/paper1.pdf'
