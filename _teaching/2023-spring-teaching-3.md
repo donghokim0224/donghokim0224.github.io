@@ -1,10 +1,10 @@
 ---
-title: "CS 61A, Structure and Interpretation of Computer Programs"
+title: "CS 61B, Data Structures"
 collection: teaching
 type: "Academic Intern"
-permalink: /teaching/2022-fall-teaching-2
+permalink: /teaching/2023-spring-teaching-3
 venue: "UC Berkeley, EECS Department"
-date: 2022-08
+date: 2023-01
 location: "Berkeley, California"
 ---
 <!-- 
