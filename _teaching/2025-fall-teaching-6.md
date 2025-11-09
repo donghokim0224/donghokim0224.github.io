@@ -4,7 +4,7 @@ collection: teaching
 type: "Reader"
 permalink: /teaching/2025-fall-teaching-6
 venue: "UC Berkeley, Department of Mathematics"
-date: 2025-08
+date: 2025-08-01
 location: "Berkeley, California"
 ---
 <!-- 
