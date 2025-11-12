@@ -6,7 +6,9 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper studies the prooperties of a pair of Diophantine equations when fixing its coefficients with Fibonacci numbers and their variants.'
 date: 2025-07-21
 venue: 'The Fibonacci Quarterly, vol. 63, no. 3, 542–553.'
+
 paperurl: 'https://donghokim0224.github.io/files/paper1.pdf'
+# journalurl: 'https://www.tandfonline.com/doi/full/10.1080/00150517.2025.2455622'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
